@@ -2,7 +2,7 @@
 
 - 🌱 I'm a Full Stack Web developer.
 - 📝 Machine Learing Enthusiast.
-- ⚡ Passionate About Learing.
+- ⚡ Passionate About Learning.
 - 💚 A developer passionate about creating meaningful Solutions while continuously chasing peace within. 
 <a href="https://github.com/elite-fable/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elite-fable" />
