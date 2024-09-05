@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/elite-fable/repo?color=blue)
+
 <h1 align="center">Hi 👋, I'm Chetna Lilhare</h1>
 
 - 🌱 I'm a Full Stack Web developer.
